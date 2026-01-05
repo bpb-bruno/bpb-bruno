@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Bruno Paixão Brito
+# 👋 Olá, eu sou o Bruno Brito
 
 **Analytics Engineer / BI Engineer** com foco em soluções analíticas end-to-end, automação e tomada de decisão orientada a dados.
 
