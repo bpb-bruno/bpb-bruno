@@ -4,9 +4,23 @@
 
 Atuo na interseção entre **engenharia analítica, business intelligence e backend para dados**, transformando dados brutos em produtos analíticos confiáveis, escaláveis e acionáveis para áreas de negócio e liderança.
 
+## Tecnologias
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-003A8F?style=flat&logo=microsoft&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-867DB1?style=flat&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+
 ---
 
-## 🎯 Foco Profissional
+## Foco Profissional
 
 - Analytics Engineering / BI Engineering  
 - Modelagem de dados e métricas  
@@ -16,7 +30,7 @@ Atuo na interseção entre **engenharia analítica, business intelligence e back
 
 ---
 
-## 🧠 Stack Principal
+## Stack Principal
 
 **Analytics & BI**  
 Power BI, DAX, KPIs, Data Modeling, Dashboards Executivos, Tableau, QlikView  
@@ -35,7 +49,7 @@ Machine Learning (fundamentos), Modelagem Preditiva (básica), Responsible AI
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 ### 🔹 Samaritano Finanças
 **Plataforma Analítica Web (Python / Flask)**
@@ -79,17 +93,7 @@ https://github.com/bpb-bruno/controle-financeiro-premium
 
 ---
 
-### 🔹 Foundations of Programming (CS50 / Scratch)
-**Fundamentos de lógica e programação**
-
-Projeto educacional desenvolvido como parte do CS50 (Harvard), representando minha base em lógica de programação e design de sistemas.
-
-👉 Repositório:  
-https://github.com/bpb-bruno/fsociety-vs-darkarmy-scratch
-
----
-
-## 📚 Formação & Fundamentos
+## Formação & Fundamentos
 
 - Pós-graduação em **Economia**  
 - Graduação em **Análise e Desenvolvimento de Sistemas**  
@@ -97,9 +101,9 @@ https://github.com/bpb-bruno/fsociety-vs-darkarmy-scratch
 
 ---
 
-## 📫 Contato
+## Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/brunopbritoo  
+- 💼 LinkedIn: https://www.linkedin.com/in/brunopbrito
 - 📧 Email: contato@brunopbrito.com.br  
 
 ---
