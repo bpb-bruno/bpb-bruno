@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Bruno Brito
+# Olá, eu sou o Bruno Brito
 
-**Analytics Engineer / BI Engineer** com foco em soluções analíticas end-to-end, automação e tomada de decisão orientada a dados.
+**BI Engineer & Data Analyst** com foco em soluções analíticas end-to-end, automação e tomada de decisão orientada a dados.
 
 Atuo na interseção entre **engenharia analítica, business intelligence e backend para dados**, transformando dados brutos em produtos analíticos confiáveis, escaláveis e acionáveis para áreas de negócio e liderança.
 
@@ -43,7 +43,7 @@ Python, Flask, Excel Avançado, VBA, n8n
 AWS, Microsoft Azure, Google BigQuery, SAP, Pipefy  
 
 **Machine Learning & AI**  
-Machine Learning (fundamentos), Modelagem Preditiva (básica), Responsible AI  
+Álgebra linear, Modelagem Preditiva, RLHF, Responsible AI Training (PyTorch, TensorFlow)
 
 ---
 
@@ -101,9 +101,9 @@ https://github.com/bpb-bruno/controle-financeiro-premium
 
 ## Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/brunopbrito
-- 📧 Email: contato@brunopbrito.com.br  
+- LinkedIn: https://www.linkedin.com/in/brunopbrito
+- Email: contato@brunopbrito.com.br  
 
 ---
 
-> 📌 *Este GitHub representa minha evolução prática em engenharia analítica, BI e automação. Estou sempre aprimorando projetos existentes e desenvolvendo novas soluções orientadas a dados.*
+> *Este GitHub representa minha evolução prática em engenharia analítica, BI e automação. Estou sempre aprimorando projetos existentes e desenvolvendo novas soluções orientadas a dados.*
